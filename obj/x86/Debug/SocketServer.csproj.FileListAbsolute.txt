@@ -1,0 +1,5 @@
+/home/alex/Projects/SocketServer/SocketServer/bin/Debug/SocketServer.exe
+/home/alex/Projects/SocketServer/SocketServer/bin/Debug/SocketServer.pdb
+/home/alex/Projects/SocketServer/SocketServer/obj/x86/Debug/SocketServer.csproj.CoreCompileInputs.cache
+/home/alex/Projects/SocketServer/SocketServer/obj/x86/Debug/SocketServer.exe
+/home/alex/Projects/SocketServer/SocketServer/obj/x86/Debug/SocketServer.pdb
